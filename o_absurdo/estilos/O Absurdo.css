@@ -1,0 +1,444 @@
+@HOMEPAGE-------------------------------------
+
+.title {
+	font-size: 5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.absurdo {
+	padding-left: 400;
+    font-size: 100;
+    font-weight: bold;
+}
+
+.main_title {
+	font-size: 50px;
+    font-weight: bold;
+    max-width: 600px;
+    float: left;
+    margin: auto;
+    padding-left: 30;
+    padding-top: 30px;
+}
+
+.sub_01 {
+	font-size: 30px;
+    line-height: 1.2em;
+    max-width: 600px;
+    margin-left: auto;
+    margin-top: 10;
+    float: left;
+    padding-left: 30;	
+}
+
+.meta_01 {
+	 font-size: 20;
+    font-weight: bold;
+    float: left;
+    max-width: 475;
+    padding-left: 15;
+    padding-top: 15;
+    padding-bottom: 50;
+}
+
+.align img{
+	padding-left: 30px;
+	padding-top: 30px;
+	overflow: visible;
+	display: inline;
+	float: left;
+	margin: auto;
+}
+
+.thumbs {
+	padding-left: 30px;
+	padding-top: 20;	
+	overflow: visible;
+	display: inline;
+	float: left;
+	margin: auto;
+}
+
+.thumbstwo {
+	padding-left: 40;
+	padding-top: 20;	
+	overflow: visible;
+	display: inline;
+	float: left;
+	margin: auto;
+}
+
+.bloco img {
+	padding-left: 30px;
+   padding-top: 20px;
+   overflow: visible;
+   display: inline;
+   float: left;
+   margin: auto;
+}
+
+.bloco2 img {
+	 padding-left: 30px;
+    padding-top: 50px;
+    overflow: visible;
+    display: inline;
+    float: left;
+    margin: auto;
+    max-width: 400px;
+    max-height: 224px;
+}
+
+.bloco3 img {
+	 padding-left: 30px;
+    padding-top: 50px;
+    overflow: visible;
+    display: inline;
+    float: left;
+    margin: auto;
+    max-width: 400px;
+    max-height: 224px;
+}
+
+.bloco4 img {
+	 padding-left: 30px;
+    padding-top: 50px;
+    overflow: visible;
+    display: inline;
+    float: left;
+    margin: auto;
+    max-width: 400px;
+    max-height: 224px;
+}
+
+.conteudo {
+	 font-size: 35px;
+    font-weight: bold;
+    padding-left: 30px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 5;
+}
+
+.conteudo2 {
+	 font-size: 35px;
+    font-weight: bold;
+    padding-left: 30px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 80;
+    max-height: 100px;
+}
+
+.conteudo3 {
+	 font-size: 35px;
+    font-weight: bold;
+    padding-left: 30px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 5;
+    line-height: 1em;
+    max-height: 100px;
+}
+
+.conteudo4 {
+	 font-size: 35px;
+    font-weight: bold;
+    padding-left: 30;
+    padding-right: 40px;
+    /* padding-top: 10px; */
+    float: right;
+    max-width: 400;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 5;
+    line-height: 1em;
+    max-height: 100px;
+}
+    
+.subsleft {
+	 font-size: 25px;
+    /* font-weight: bold; */
+    padding-left: 30px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 10;
+}
+
+.subsmiddle {
+	 font-size: 25px;
+    /* font-weight: bold; */
+    padding-left: 35px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 10;
+}
+
+.subsright {
+	 font-size: 25px;
+    /* font-weight: bold; */
+    padding-left: 30px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 10;
+}
+
+.subsleft2 {
+	 font-size: 25px;
+    /* font-weight: bold; */
+    padding-left: 30px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 10;
+    margin-bottom: 100px;
+}
+
+.subsmiddle2 {
+	 font-size: 25px;
+    /* font-weight: bold; */
+    padding-left: 35px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 10;
+    margin-bottom: 100px;
+}
+
+.subsright2 {
+	 font-size: 25px;
+    /* font-weight: bold; */
+    padding-left: 40px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 10;
+    margin-bottom: 100px;
+}
+
+.menu {
+	 font-size: 20px;
+    font-weight: lighter;
+    padding-left: 120px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 400;
+    display: inline;
+    margin-top: 1;
+    margin-bottom: 5;
+    text-align: center;
+ }
+ 
+ @Páginas-------------------------------------
+ 
+.h1 {
+	font-size: 2.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.corpo {
+	max-width: 1000px;
+	padding-left: 175;
+	font-size: 25px;
+	float: left;
+	text-align: left;
+	margin-top: 5;
+}
+
+.corpo2 {
+	max-width: 1000px;
+	padding-left: 175;
+	font-size: 25px;
+	float: left;
+	text-align: left;
+	min-inline-size: -webkit-fill-available;
+}
+
+.corpo3 {
+	max-width: 1000px;
+	padding-left: 175;
+	font-size: 25px;
+	float: left;
+	text-align: left;
+	/*min-inline-size: -webkit-fill-available;?*/
+	padding-bottom: 125;
+	margin-top: 5;
+}
+
+.featured {
+	padding-left: 175px;
+	padding-top: 30px;
+	overflow: visible;
+	display: inline;
+	float: left;
+	margin: auto;
+}
+
+.headings {
+	 font-size: 60px;
+    text-align: left;
+    font-weight: bold;
+    max-width: 1000px;
+    margin-bottom: 15;
+    padding-left: 175;
+    line-height: 1em;
+}
+
+.descricao {
+	font-size: 30px;
+   text-align: left;
+   font-weight: lighter;
+   max-width: 1000px;
+   margin-bottom: 15;
+   margin-top: 10;
+   padding-left: 175;
+   line-height: 1em;
+   color: #5f5f5f;
+}
+
+.legenda {
+	font-size: 15px;
+	float: left;
+	text-align: left;
+	padding-top: 0px;
+	padding-left: 175;
+	padding-bottom: 20;
+	max-width: 1000px;
+	font-style: italic;
+}
+
+.leiamais {
+	font-size: 32px;
+   font-weight: 600;
+   margin: 10 0 5;
+}
+
+.leiamais1 img {
+	padding-left: 175px;
+   padding-top: 20px;
+   overflow: visible;
+   display: inline;
+   float: left;
+   margin: auto;
+   max-width: 333px;
+}
+
+.leiamais2 img {
+	padding-left: 33px;
+   padding-top: 20px;
+   overflow: visible;
+   display: inline;
+   float: left;
+   margin: auto;
+   max-width: 333px;
+}
+
+.leiamais3 img {
+	padding-left: 33px;
+   padding-top: 20px;
+   overflow: visible;
+   display: inline;
+   float: left;
+   margin: auto;
+   max-width: 333px;
+}
+   
+.leiamais_t1 {
+	 font-size: 25px;
+    font-weight: bold;
+    padding-left: 175px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 300;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 50;
+}
+
+.leiamais_t2 {
+	 font-size: 25px;
+    font-weight: bold;
+    padding-left: 33px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 300;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 50;
+}
+
+.leiamais_t3 {
+	 font-size: 25px;
+    font-weight: bold;
+    padding-left: 33px;
+    /* padding-top: 10px; */
+    float: left;
+    max-width: 300;
+    display: inline;
+    margin-top: 20;
+    margin-bottom: 50;
+}
+
+a:-webkit-any-link {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+a:hover {
+	color: #404040;
+}
+
+/*-----RODAPÉ-----*/
+
+.rodape {
+	margin-top: 5;
+	text-align: center;
+	font-size: 15;
+}
+
+.rodape2 {
+	 margin-top: 10;
+    font-size: 20px;
+    margin-bottom: 5;
+    text-align: center;
+}
+
+
+-----ZOOM-----
+
+.zoom {
+	overflow: visible;
+	display: inline;
+}
+
+.zoom img {
+	max-width: 100%;
+	transition: all 0.4s;
+	opacity: 1;
+}
+
+.zoom:hover img {
+	transform: scale(1.1);
+	opacity: 1;
+}
