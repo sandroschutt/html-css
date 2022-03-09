@@ -1,0 +1,185 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*CABEÇALHO*/
+
+#area-cabecalho {
+	background: #f7b600;
+	text-align: center;
+	padding: 40px 0;
+}
+
+#menu-principal a {
+	color: white;
+	margin: 0 10px;
+	font-weight: bold;
+}
+
+#menu-principal a:hover {
+	background: #FFF;
+	padding: 5px;
+}
+
+.branco {
+	color: white;
+}
+
+#menu-principal {
+	display: inline;
+}
+
+/*CORPO*/
+
+#area-principal {
+	width: 920px;
+	margin: 20px 15%;
+	display: inline-block;
+	float: left;
+}
+
+#area-postagem {
+	background: white;
+	width: 600px;
+	margin-bottom: 30px;
+	display: inline-block;
+	float: left;
+}
+
+#area-postagem a {
+	color: #f7b600;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+
+.data {
+	margin: 0 20px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.img-principal {
+	width: 560px;
+	margin: 15px 0 10px 20px;
+}
+
+.descricao {
+	max-width: 560px;
+	margin: 0 20px;
+}
+
+.veja-mais {
+	margin: 10px 0 10px 20px;
+}
+
+.separador {
+	background: #e6e6e6;
+	width: 600px;
+	padding: 20px 0;
+	display: inline-block;
+}
+
+/*LATERAL*/
+
+#area-lateral {
+	width: 300px;
+	display: inline-block;
+	float: right;
+}
+
+#area-lateral a {
+	color: #f7b600;
+	font-weight: bold;
+}/*editar links específicos só pode ser feito dentro de IDs*/
+
+#postagens-recentes {
+	background: white;
+	float: left;
+	display: inline-block;
+}
+
+#postagens-recentes a:link {
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+.descricao-lateral {
+	margin: 10px 15px;
+}
+
+.leia-mais {
+	margin: 10px 15px;
+}
+
+#categorias {
+	background: white;
+	width: 100%;
+	margin: 20px 0 0 0;
+	float: left;
+	display: inline-block;
+}
+
+.menu-categorias {
+	margin: 0 0 10px 15px;
+	display: block;
+	float: left;
+}
+
+
+/*RODAPÉ*/
+
+#rodape {
+	background: grey;
+	width: 600px;
+	margin: 10px 0 0 0;
+	padding: 10px 0;
+	display: inline-block;
+	float: left;
+
+
+}
+
+/*SELETORES*/
+
+body {
+	font-size: 1em;
+	font-family: "Trebuche MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+	width: 100%;
+}
+
+h1 {
+	padding: 0 0 25px 0;
+}
+
+h2 {
+	margin: 0 20px;
+	padding: 20px 0 0 0;
+	color: #f7b600;
+	font-size: 2em;
+}
+
+h3 {
+	background: #dcdcdc;
+	color: grey;
+	margin: 10px;
+	padding: 5px;
+}
+
+h4 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFE666 !important;
+}
+
+hr {
+	margin: 0 auto;
+	width: 95%
+}
