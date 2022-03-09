@@ -1,0 +1,58 @@
+<html>
+	<meta charset="UTF-8">
+	<link href="file:///home/sandroschutt/Desktop/Facul/Tarefa Zé/O Absurdo/estilos/O Absurdo.css" rel="stylesheet">
+	<head>
+		<h1 align="center">O Absurdo<span style="color: red;">!</span></h1>
+		<hr width="1200px">
+			
+				<p class="menu">|  HOME  |</p>
+				<p class="menu">|  POLÍTICA  |</p>
+				<p class="menu">|  ECONOMIA  |</p>
+				<p class="menu">|  ENTRETENIMENTO  |</p>
+				<p class="menu">|  ESPORTE  |</p>
+			<br>		
+		<hr width="1200px">
+		
+	</head>
+	
+	<body>
+		<p class="headings">Jogadores se perguntam se conseguirão disputar campeonato de máscara</p>
+		<p class="descricao">Falta de oxigenação no cérebro é um dos principais entraves para o retorno das atividades futebolísticas</p>
+		<div class="featured">
+			<img src="file:///home/sandroschutt/Desktop/Facul/Tarefa Zé/O Absurdo/Imagens/fut.jpg" width="1000px"></div>
+		<p class="legenda">Com estádios vazios, esportistas são forçados a encarar o próprio vazio existencial</p>
+	
+		<p class="corpo">O mundo da bola vive um dilema. A questão a ser respondida é: quando iremos ver a bola rolar de novo? Políticos, dirigentes, atletas, técnicos, juízes e bandeirinhas já estão ficando com os músculos enferrujados e se preocupam se conseguirão ter o mesmo desempenho que tinham antes da pandemia.</p>
+		<p class="corpo">Por outro lado, políticos começam a se mobilizar para permitir a realização de partidas em estádios sem plateia, como o do Santos, do Bragantino e do Vasco. Entretanto, com a possibilidade de uma segunda onda do vírus atingir os centros urbanos, nada é certo. “Precisamos pensar em uma alternativa, algum jeito de colocar esse pessoal pra bater bola. O brasileiro não vive sem futebol, o tédio está batendo níveis inimagináveis”, disse o presidente da CBF, Ricardo Braga, em coletiva de imprensa na última quinta.</p>
+		<p class="corpo">LUma das alternativas sugeridas pela diretoria do Flamengo anima entusiastas do esporte e profissionais. O clube rubro negro, máquina de lavar… digo, fazer dinheiro, defende que o futebol retome as atividades contanto que os jogadores usem máscaras. Em um treino teste com essa metodologia, Gabigol, atual fenômeno do futebol brasileiro, detalhou a experiência.</p>
+		<p class="corpo">“Fica muito difícil respirar, parece que eu tô jogando enquanto fumo um cigarro”, revelou o astro do Flamengo.</p>
+		<p class="corpo">“Eu tô velho, acho que vou desmaiar no primeiro tempo. Agora mesmo o meu cérebro tá sem oxigênio, tô vendo tudo preto”, reclama Diego, meia do Mengão.</p>
+		<p class="corpo3">Já o chuteira de ouro carioca, Bruno Enrique, disse não se preocupar tanto. “Contanto que meu moicano de Neymar fique em pé, respirar é o menor dos problemas”, relatou o astro, enquanto ajeitava os cabelos.</p>
+		<br>
+		<br>
+		<br>
+		<br>
+		<hr width="1200px">
+			<p class="leiamais" align="center">Leia mais</p>
+			<div class="leiamais1 img">
+			<img src="file:///home/sandroschutt/Desktop/Facul/Tarefa Zé/O Absurdo/Imagens/teste_01.jpg" width="300px">
+		</div>
+		<div class="leiamais2 img">
+			<img src="file:///home/sandroschutt/Desktop/Facul/Tarefa Zé/O Absurdo/Imagens/teste_01.jpg" width="300px">
+		</div>
+		<div class="leiamais3 img">
+			<img src="file:///home/sandroschutt/Desktop/Facul/Tarefa Zé/O Absurdo/Imagens/teste_01.jpg" width="300px">
+		</div>
+			<p class="leiamais_t1">lorem ipsum lorem ipsum lorem ipsum</p>
+			<p class="leiamais_t2">lorem ipsum lorem ipsum lorem ipsum</p>
+			<p class="leiamais_t3">lorem ipsum lorem ipsum lorem ipsum</p>
+		
+		
+		<hr width="1200px">
+			<p align="center" style="font-size: 20px"><b>O Absurdo!</b></p>
+			<p align="center" style="font-size: 15px;">Notícias verdadeiras que parecem fake</p>
+		<hr width="1200px">
+		<br>
+		<br>
+	
+	</body>
