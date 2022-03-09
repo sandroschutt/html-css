@@ -1,0 +1,60 @@
+body {
+	width: 900px;
+	background: #EED8AE url('imagens/fundo.png') no-repeat;
+	font-family: Arial, Helvetica, sans-serif ;
+}
+
+h3 {
+	font-size: 16px;
+	font-color: blue;
+	font-style: bold;
+	font-family: Arial, Helvetica, sans-serif ;
+}
+
+h5 {
+	color: #776c57;
+	font-size: 16px;
+	margin-left: 10px;
+}
+
+p {
+	max-width: 900px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #5f5645;
+	padding: 5px;
+}
+
+/*a.hover {
+	color: #beac8b;
+}*/
+
+.caixa1 {
+	background-color: white;
+	width: 900px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+#main_menu {
+	padding: 15px;
+	margin-left: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+.campanhas {
+	max-width: 640px;
+	max-height: 425px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #EED8AE;
+	margin-left: 10px;
+}
